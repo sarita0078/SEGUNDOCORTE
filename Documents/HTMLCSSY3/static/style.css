@@ -1,0 +1,76 @@
+body {
+    background-color: #1a1a2e;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #7b5ea7;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 36px;
+    color: #a07fd4;
+}
+
+header p {
+    font-size: 16px;
+    color: #cccccc;
+}
+
+.foto-perfil {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 3px solid #7b5ea7;
+    display: block;
+    margin: 0 auto;
+}
+
+section {
+    background-color: #13131f;
+    border: 1px solid #7b5ea7;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section h2 {
+    font-size: 20px;
+    color: #a07fd4;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 15px;
+    color: #cccccc;
+    line-height: 1.6;
+}
+
+ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    color: #cccccc;
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+a {
+    color: #a07fd4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
